@@ -1,5 +1,3 @@
-![Logo](images/ekranimg.jpg)
-
 -----------FinancialCrm Uygulaması-----------
 
 FinancialCrm, finansal işlemleri yönetmek ve takip etmek için tasarlanmış bir masaüstü uygulamasıdır. Bu uygulama, kullanıcıların banka hesaplarını, giderlerini, faturalarını ve diğer finansal işlemlerini kolayca izlemelerini sağlar. Kullanıcılar, güvenli bir şekilde giriş yaptıktan sonra, banka hesap bakiyelerini, banka işlemlerini, giderlerini ve ayarlarını yönetebilirler.
